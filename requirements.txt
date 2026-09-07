@@ -6,7 +6,6 @@ pandas
 numpy
 matplotlib
 shap
-ultralytics
+ultralytics-opencv-headless
 Pillow
-opencv-python-headless
 plotly
